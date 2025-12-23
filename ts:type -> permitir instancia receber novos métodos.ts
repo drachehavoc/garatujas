@@ -16,7 +16,7 @@ class Base {
 		this[canInstantiateWithNew] = true
 		const obj = new this
 		this[canInstantiateWithNew] = false
-		return obj as BaseMais<Base, Opts> // magica do casting
+		return obj as BaseMais<Base, Opts> // <--- a mágica do casting
 	}
 
 	check(): true { 
