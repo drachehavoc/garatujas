@@ -9,7 +9,7 @@ class Base {
 
 	private constructor() {
 		if (!this.constructor[canInstantiateWithNew])
-			throw "instancie a classe com o método estico create"
+			throw "instancie a classe com o método estático create"
 	}
 
 	static create<Opts extends {}>() {
@@ -31,9 +31,12 @@ const v = Base.create<{ max?: number }>()
 v.minhaRegra = ({ max }) => null!
 v.minhaRegra({ max: 100 })
 
-// Por contas do `| undefined´ na definição do tipo BaseMais, 
-// regraInexistente é de fato inexistente
+// Por contas do `| undefined´ na definição do tipo BaseMais, regraInexistente pode ser
+// `((opts: Opts) => any) | undefined` e como em nenhum momento foi explicitamente dito 
+// que não é `undefined`, temos o erro de tipo: 
+// - `Cannot invoke an object which is possibly 'undefined'.` 
 v.regraInexistente() 
 
-// Erro de tipo, pq check foi definido na classe e portanto é do tipo () => true
+// Erro de tipo, pq check foi definido na classe e portanto é do tipo () => true:
+// - Type 'false' is not assignable to type 'true'.
 v.check = () => false
