@@ -27,7 +27,7 @@ class Base {
 // Cria instância
 const v = Base.create<{ max?: number }>()
 
-// Deve funcionar de boas
+// Deve funcionar de boas, aqui `minhaRegra`, deixa de ser possivelmente `undefined`
 v.minhaRegra = ({ max }) => null!
 v.minhaRegra({ max: 100 })
 
