@@ -17,7 +17,7 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 | site   |  oficial |        |  js    |  ts    | html  |   | css    | sass   | less   |
 | ------ | -------- | ------ | ------ | ------ | ------| - | ------ | ------ | ------ |
-|        |          |        |        |        |       |   |        |        |        |
+|        |          |        |        |        |       |   |        |        | ![Alt text][my-image]       |
 
 - 🛝 Playgrounds 
   - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
@@ -26,7 +26,9 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
   - [Javascript (html/css/js) ↣ jspad.dev⁺](https://www.jspad.dev/)
   - [TypeScript - Microsoft](https://www.typescriptlang.org/play)
 
-[my-image]: /path/to/image.png "Optional Title"
+![Alt text][my-image]
+
+[my-image]: /images/logo-javascript.png "Optional Title"
 
 ```
 Legenda
@@ -35,7 +37,9 @@ Legenda
 ³ mais popular
 ⁺ meu favorito
 ```
+Icons
+- [flaticon](https://www.flaticon.com/) 
 
 Search Unicodes
-  - [unicode-explorer.com](https://unicode-explorer.com/)
-  - [unicodeplus.com](https://unicodeplus.com/)
+- [unicode-explorer.com](https://unicode-explorer.com/)
+- [unicodeplus.com](https://unicodeplus.com/)
