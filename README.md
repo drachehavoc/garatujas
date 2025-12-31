@@ -17,28 +17,29 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 🛝 Playgrounds (HTML5)
 
-| site   | oficial  |        |  langs  |
-| ------ |:--------:| ------ | ------ |
-|        |     X    |        | ![asdsadsa][js]![asdsadd][ts] |
+| site                                                          | oficial  |        |  langs  |
+| ------------------------------------------------------------- |:--------:| ------ | ------  |
+| [MDN](https://developer.mozilla.org/play)                     |     X    |        |         |
+| [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |        |         |
+| [jsfiddle](https://jsfiddle.net/)                             |          |        |         |
+| [jspad.dev](https://www.jspad.dev/)                           |          |        |         |
 
-- 🛝 Playgrounds 
-  - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
-  - [Javascript(ts) (html/css/js) ↣ MDN¹](https://developer.mozilla.org/play)
-  - [Javascript (html/css/js) ↣ jsfiddle²](https://jsfiddle.net/)
-  - [Javascript (html/css/js) ↣ jspad.dev⁺](https://www.jspad.dev/)
-  - [TypeScript - Microsoft](https://www.typescriptlang.org/play)
 
+![][js] 
+![][ts]
+![][html5]
+![][css3]
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 [js]: /images/logo-javascript-16px.png "Optional Title"
 [ts]: /images/logo-typescript-16px.png "Optional Title"
+[html5]: /images/logo-html5-16px.png "Optional Title"
+[css3]: https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain-wordmark.svg "Optional Title"
 
-```
-Legenda
-¹ site oficial-
-² possui planos pagos
-³ mais popular
-⁺ meu favorito
-```
+🛝 Others Playgrounds 
+  - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
+  
 Icons
 - [flaticon](https://www.flaticon.com/) 
 
