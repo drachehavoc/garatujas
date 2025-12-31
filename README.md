@@ -15,12 +15,18 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 ## Links Úteis
 
+| site   |  oficial |        |  js    |  ts    | html  |   | css    | sass   | less   |
+| ------ | -------- | ------ | ------ | ------ | ------| - | ------ | ------ | ------ |
+|        |          |        |        |        |       |   |        |        |        |
+
 - 🛝 Playgrounds 
   - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
-  - [Javascript (html/css/js) ↣ MDN¹](https://developer.mozilla.org/play)
+  - [Javascript(ts) (html/css/js) ↣ MDN¹](https://developer.mozilla.org/play)
   - [Javascript (html/css/js) ↣ jsfiddle²](https://jsfiddle.net/)
   - [Javascript (html/css/js) ↣ jspad.dev⁺](https://www.jspad.dev/)
-  - [TypeScript¹](https://www.typescriptlang.org/play)
+  - [TypeScript - Microsoft](https://www.typescriptlang.org/play)
+
+[my-image]: /path/to/image.png "Optional Title"
 
 ```
 Legenda
