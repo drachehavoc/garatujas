@@ -11,3 +11,9 @@ referência: [www.nestlefamilynes.com.br - que são garatujas? Conheça importâ
 Esses são meus rabiscos e servem apenas para mim. Não espero que isso seja útil para outras pessoas. Penso neles como as garatujas que uma criança faz antes de saber ler, escrever ou desenhar direito. Não são bonitas nem organizadas, mas é fazendo esses riscos que algo começa a se formar.
 
 Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entender melhor as coisas, para testar ideias e para errar sem compromisso. Volto aqui quando preciso relembrar algum conceito ou perceber como meu jeito de pensar mudou com o tempo.
+
+
+## Links Úteis
+
+- 👨🏻‍💻 Playgrounds
+  - [assembly x64 - x64.halb.it](https://x64.halb.it/)
