@@ -18,16 +18,16 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 🛝 Playgrounds (HTML5)
 
 | site                                                          | oficial  |        |  langs  |
-| ------------------------------------------------------------- |:--------:| ------ | --------------------------:|
+| ------------------------------------------------------------- |:--------:| ------ |:--------------------------|
 | [MDN](https://developer.mozilla.org/play)                     |     X    |        | ![][js]![][html5]![][css3]        |
 | [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |        | ![][js]![][ts]                    |
 | [jsfiddle](https://jsfiddle.net/)                             |          |        | ![][js]![][html5]![][css3]        |
 | [jspad.dev](https://www.jspad.dev/)                           |          |        | ![][js]![][html5]![][css3]        |
 
-[js]: https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg "Optional Title"
-[ts]: https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg "Optional Title"
-[html5]: https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain-wordmark.svg  "Optional Title"
-[css3]: https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain-wordmark.svg "Optional Title"
+[js]:    https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg  "Javascript"
+[ts]:    https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg  "TypeScript"
+[html5]: https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain-wordmark.svg   "HTML"
+[css3]:  https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain-wordmark.svg     "CSS"
 
 🛝 Others Playgrounds 
   - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
