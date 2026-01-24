@@ -15,10 +15,12 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 ## Links Úteis
 
+https://stateofjs.com/en-US
+
 🛝 Playgrounds (HTML5)
 
-| site                                                          | oficial  |        |  langs  |
-| ------------------------------------------------------------- |:--------:| ------ |:--------------------------|
+| site                                                          | oficial  |        |  langs                            |
+| ------------------------------------------------------------- |:--------:| ------ |:----------------------------------|
 | [MDN](https://developer.mozilla.org/play)                     |     X    |        | ![][js]![][html5]![][css3]        |
 | [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |        | ![][js]![][ts]                    |
 | [jsfiddle](https://jsfiddle.net/)                             |          |        | ![][js]![][html5]![][css3]        |
@@ -30,7 +32,7 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 [css3]:  https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain-wordmark.svg     "CSS"
 
 🛝 Others Playgrounds 
-  - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
+- [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
   
 Icons
 - [flaticon](https://www.flaticon.com/) 
