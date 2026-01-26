@@ -34,6 +34,57 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 | | TUI | |
 | | UI | |
 | | UX | |
+| | WASM | |
+| | API | |
+| | 2FA | |
+| | ASCII | |
+| | UNICODE | |
+| Cache | | |
+| Buffer | | |
+| Callback | | |
+| | CDN | |
+| Call Stack| | |
+| Criptografia | | |
+| Cookie | | |
+| | CORS | |
+| Debug | | |
+| | DevOps | |
+| | DNS | |
+| | DOM | |
+| FOO, BAR, BAZ, ...| | |
+| Lorem Ipsum | | |
+| | OAuth2 | |
+| | ORM | |
+| Pair Programming | | |
+| Pipeline | CI/CD | |
+| Programação Funcional | | |
+| | POO | |
+| Programação Reativa | | |
+| | PWA | |
+| | RAG | |
+| Refatoração de Código | | |
+| | RegExp | |
+| Restful | Rest | |
+| | SaaS | |
+| Scrum | | |
+| | SDK/DevKit | |
+| | SEO | |
+| | SQL | |
+| | SSH | |
+| | SSL | |
+| | TLS | |
+| | HTTP | |
+| | HTTPS | |
+| | WWW | |
+| Token | | |
+| Thread | | |
+| | UUID | |
+| | W3C | |
+| WebSocket | | |
+| | WSL | |
+| | XML | |
+| | XSS Attack | |
+| Gerenciador de Pacotes | | |
 | | | |
 | | | |
 | | | |
@@ -51,6 +102,10 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 | | | |
 | | | |
 | | | |
+| | | |
+| | | |
+| | | |
+
 
 
 
