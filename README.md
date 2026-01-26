@@ -85,7 +85,7 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 | | XML | |
 | | XSS Attack | |
 | Gerenciador de Pacotes | | |
-| | | |
+| | HAML| |
 | | | |
 | | | |
 | | | |
@@ -112,26 +112,34 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 ## Links Úteis
 
-- https://stateofjs.com/en-US
-
 🛝 Playgrounds (HTML5)
 
-| site                                                          | oficial  |          |  langs                              |
-| ------------------------------------------------------------- |:--------:| -------- |:------------------------------------|
-| [MDN](https://developer.mozilla.org/play)                     | ![][crs] | ![][fav] | ![][js] ![][css] ![][html]          |
-| [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |          | ![][js] ![][ts]                     |
-| [jsfiddle](https://jsfiddle.net/)                             |          |          | ![][js] ![][css] ![][html]          |
-| [jspad.dev](https://www.jspad.dev/)                           |          |          | ![][js] ![][css] ![][html]          |
+| site                                                          | oficial  | favorito |  linguages                          |              |                      |
+| ------------------------------------------------------------- |:--------:|:--------:|:----------------------------------- | ------------ | -------------------- |
+| [MDN](https://developer.mozilla.org/play)                     | ![][crs] | ![][fav] | ![][js] ![][css] ![][html]          | ![][HAML]    | ![][coffee] ![][VUE] |
+| [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |          | ![][js] ![][ts]                     | |
+| [jsfiddle](https://jsfiddle.net/)                             |          |          | ![][js] ![][css] ![][html]          | |
+| [jspad.dev](https://www.jspad.dev/)                           |          |          | ![][js] ![][css] ![][html]          | |
 
-[js]:   https://api.iconify.design/vscode-icons:file-type-js-official.svg         "Javascript"
-[ts]:   https://api.iconify.design/vscode-icons:file-type-typescript-official.svg "TypeScript"
-[html]: https://api.iconify.design/vscode-icons:file-type-html.svg                "HTML"
-[css]:  https://api.iconify.design/vscode-icons:file-type-css.svg?color=%23888888 "CSS [rebecca purple]"
+[js]:    https://api.iconify.design/simple-icons:javascript.svg?color=%23F0DB4F  "Javascript"
+[ts]:    https://api.iconify.design/simple-icons:typescript.svg?color=%233178c6  "TypeScript"
+[html]:  https://api.iconify.design/simple-icons:html5.svg?color=%23E34C26       "HTML"
+[css]:   https://api.iconify.design/simple-icons:css.svg?color=%23663399         "CSS [rebecca purple]"
+      
+[haml]:    https://api.iconify.design/vscode-icons:file-type-haml.svg?color=%233e3e29  "haml"
+[coffee]:  https://api.iconify.design/simple-icons:coffeescript.svg?color=%233e2723    "Coffee Script"
+[VUE]:     https://api.iconify.design/simple-icons:vuedotjs.svg?color=%2335495e        "Vue"
+
 [fav]:  https://api.iconify.design/material-symbols:favorite.svg?color=%23ff0000  "favorito"
 [crs]:  https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000           "cross"
 
 🛝 Others Playgrounds 
 - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
+
+Ainda Não Categorizados
+- https://stateofjs.com/en-US
+- https://www.schemecolor.com/search/typescript
+- https://colorswall.com/palette
   
 Icons
 - [flaticon](https://www.flaticon.com/)
