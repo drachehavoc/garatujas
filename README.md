@@ -125,8 +125,8 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 [js]:    https://api.iconify.design/devicon:javascript.svg  "Javascript"
 [ts]:    https://api.iconify.design/devicon:typescript.svg  "TypeScript"
-[html5]: https://api.iconify.design/devicon:html5.svg       "HTML"
-[css3]:  https://api.iconify.design/devicon:css3.svg        "CSS"
+[html5]: https://api.iconify.design/devicon:html5.svg      "HTML"
+[css3]:   https://api.iconify.design/simple-icons:css.svg?color=%23663399     "CSS"
 [fav]: https://api.iconify.design/material-symbols:favorite.svg?color=%23ff0000 "favorite"
 [crs]: https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000          "cross"
 
