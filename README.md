@@ -14,99 +14,118 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 ## Dicionário 
 
-| termo | sigla/abreviação | descrição |
-| ----- | ---------------- | --------- |
-| entry point | | |
-| sistema operacional | SO | |
-| | MCP | |
-| | MVP | |
-| | HTML | |
-| | CSS | |
-| | JS | |
-| | TS | |
-| Compilador | | |
-| Traspilador | | |
-| | lint | |
-| Linker | | |
-| | MCP | |
-| | LSP | |
-| | CLI | |
-| | TUI | |
-| | UI | |
-| | UX | |
-| | WASM | |
-| | API | |
-| | 2FA | |
-| | ASCII | |
-| | UNICODE | |
-| Cache | | |
-| Buffer | | |
-| Callback | | |
-| | CDN | |
-| Call Stack| | |
-| Criptografia | | |
-| Cookie | | |
-| | CORS | |
-| Debug | | |
-| | DevOps | |
-| | DNS | |
-| | DOM | |
-| FOO, BAR, BAZ, ...| | |
-| Lorem Ipsum | | |
-| | OAuth2 | |
-| | ORM | |
-| Pair Programming | | |
-| Pipeline | CI/CD | |
-| Programação Funcional | | |
-| | POO | |
-| Programação Reativa | | |
-| | PWA | |
-| | RAG | |
-| Refatoração de Código | | |
-| | RegExp | |
-| Restful | Rest | |
-| | SaaS | |
-| Scrum | | |
-| | SDK/DevKit | |
-| | SEO | |
-| | SQL | |
-| | SSH | |
-| | SSL | |
-| | TLS | |
-| | HTTP | |
-| | HTTPS | |
-| | WWW | |
-| Token | | |
-| Thread | | |
-| | UUID | |
-| | W3C | |
-| WebSocket | | |
-| | WSL | |
-| | XML | |
-| | XSS Attack | |
-| Gerenciador de Pacotes | | |
-| | HAML| |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-
-
+|   | sigla/abreviação | termo                                              | descrição |
+| - | ---------------- | -------------------------------------------------- | --------- |
+| A |                  |                                                    |           |
+|   | ASCII            | American Standard Code for Information Interchange |           |
+|   | API              | Application Programming Interface                  |           |
+| B |                  |                                                    |           |
+|   |                  | Backend                                            |           |
+|   |                  | BAR                                                |           |
+|   |                  | BAZ                                                |           |
+|   | BDD              | Behavior Driven Development                        |           |
+|   |                  | Buffer                                             |           |
+| C |                  |                                                    |           |
+|   |                  | Cache                                              |           |
+|   |                  | Call Stack                                         |           |
+|   |                  | Callback                                           |           |
+|   | CSS              | Cascadian Style Sheets                             |           |
+|   | CLI              | Command-line Interface                             |           |
+|   |                  | Compilador                                         |           |
+|   | CDN              | Content Delivery Network                           |           |
+|   |                  | Cookie                                             |           |
+|   |                  | Criptografia                                       |           |
+|   | CORS             | Cross-Origin Resource Sharing                      |           |
+|   | XSS              | Cross-Site Scripting Attack                        |           |
+| D |                  |                                                    |           |
+|   |                  | Debug                                              |           |
+|   | DevOps           | Development Operations                             |           |
+|   | DOM              | Document Object Model                              |           |
+|   | DNS              | Domain Name System                                 |           |
+| E |                  |                                                    |           |
+|   |                  | Entry Point                                        |           |
+|   | RegExp           | Expressão Regular                                  |           |
+|   | XML              | Extensible Markup Language                         |           |
+| F |                  |                                                    |           |
+|   |                  | FOO                                                |           |
+|   |                  | Frontend                                           |           |
+|   |                  | Fullstack                                          |           |
+| G |                  |                                                    |           |
+|   |                  | Gerenciador de Pacotes                             |           |
+| H |                  |                                                    |           |
+|   | HTML             | Hiper Text Markup Language                         |           |
+|   | HAML             | HTML abstraction markup language                   |           |
+|   | HTTP             | Hypertext Transfer Protocol                        |           |
+|   | HTTPS            | Hypertext Transfer Protocol Secure                 |           |
+| I |                  |                                                    |           |
+|   | IDE              | Integrated Development Environment                 |           |
+| J |                  |                                                    |           |
+|   | JS               | Javascrip                                          |           |
+| K |                  |                                                    |           |
+| L |                  |                                                    |           |
+|   | LSP              | Language Server Protocol                           |           |
+|   |                  | Linker                                             |           |
+|   |                  | Lint                                               |           |
+|   |                  | Lorem Ipsum                                        |           |
+| M |                  |                                                    |           |
+|   | MVP              | Minimum Viable Product                             |           |
+|   | MCP              | Model Context Protocol                             |           |
+|   | MVC              | Model-View-Controller                              |           |
+|   | MVVM             | Model-View-ViewModel                               |           |
+| N |                  |                                                    |           |
+| O |                  |                                                    |           |
+|   | ORM              | Object Relational Mapping                          |           |
+|   | OAuth2           | Open Authorization                                 |           |
+| P |                  |                                                    |           |
+|   |                  | Pair Programming                                   |           |
+|   | CI/CD            | Pipeline                                           |           |
+|   |                  | Programação Funcional                              |           |
+|   | POO              | Programação Orientada a Objetos                    |           |
+|   |                  | Programação Reativa                                |           |
+|   | PWA              | Progressive Web App                                |           |
+| Q |                  |                                                    |           |
+| R |                  |                                                    |           |
+|   |                  | Refatoração de Código                              |           |
+|   | REST             | Representational State Transfer                    |           |
+|   |                  | Restful API                                        |           |
+|   | RAG              | Retrieval-augmented Generation                     |           |
+| S |                  |                                                    |           |
+|   |                  | Scrum                                              |           |
+|   | SEO              | Search Engine Optimization                         |           |
+|   | SSH              | Secure Shell                                       |           |
+|   | SSL              | Secure Sockets Layer                               |           |
+|   | SPA              | Single Page Application                            |           |
+|   | SO               | Sistema Operacional                                |           |
+|   | SaaS             | Software as a Service                              |           |
+|   | SDK/DevKit       | Software Development Kit                           |           |
+|   | SQL              | Structured Query Language                          |           |
+| T |                  |                                                    |           |
+|   | TDD              | Test Driven Development                            |           |
+|   | TUI              | Text User Interface                                |           |
+|   |                  | Thread                                             |           |
+|   |                  | Token                                              |           |
+|   | TLS              | Transport Layer Security                           |           |
+|   |                  | Traspilador                                        |           |
+|   | 2FA              | Two-Factor Authentication                          |           |
+|   | TS               | TypeScript                                         |           |
+| U |                  |                                                    |           |
+|   |                  | Unicode                                            |           |
+|   | UTF-8            | Unicode Transformation Format                      |           |
+|   | UX               | User Experience                                    |           |
+|   | UI               | User Interface                                     |           |
+|   |                  | UUID                                               |           |
+| V |                  |                                                    |           |
+|   | VCS              | Version Control System                             |           |
+|   | VM               | Virtual Machine                                    |           |
+| W |                  |                                                    |           |
+|   |                  | W3C                                                |           |
+|   | WASM             | Web Assembly                                       |           |
+|   |                  | WebSocket                                          |           |
+|   | WSL              | Windows Subsystem for Linux                        |           |
+|   | WWW              | World Wide Web                                     |           |
+| X |                  |                                                    |           |
+| Y |                  |                                                    |           |
+| Z |                  |                                                    |           |
 
 
 
