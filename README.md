@@ -114,12 +114,12 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 🛝 Playgrounds (HTML5)
 
-| site                                                          | ![][crs] oficial ![][fav] favorito |  linguages                 | alt: languages                          |  frameworks / bibliotecas                   |
-| ------------------------------------------------------------- |:----------------------------------:|:---------------------------| --------------------------------------- | ------------------------------------------- |
-| [MDN](https://developer.mozilla.org/play)                     | ![][crs] ![][fav]                  | ![][js] ![][css] ![][html] |                                         |                                             |
-| [TypeScript - Microsoft](https://www.typescriptlang.org/play) |                                    | ![][js] ![][ts]            |                                         |                                             |
-| [jsfiddle](https://jsfiddle.net/)                             |                                    | ![][js] ![][css] ![][html] | ![][ts] ![][HAML] ![][sass] ![][coffee] | ![][vue] ![][react] ![][preact] ![][postcss] ![][tailwind] |
-| [jspad.dev](https://www.jspad.dev/)                           |                                    | ![][js] ![][css] ![][html] | ![][ts]                                 | ![][vue] ![][react] ![][svelte] ![][webcomp] ![][tailwind] |
+| site                                                          | ![ofi] ![fav] |  linguages           | alt: languages                  |  frameworks / bibliotecas                   |
+| ------------------------------------------------------------- |:-------------:|:---------------------| ------------------------------- | ------------------------------------------- |
+| [MDN](https://developer.mozilla.org/play)                     | ![ofi] ![fav] | ![js] ![css] ![html] |                                 |                                             |
+| [TypeScript - Microsoft](https://www.typescriptlang.org/play) |               | ![js] ![ts]          |                                 |                                             |
+| [jsfiddle](https://jsfiddle.net/)                             |               | ![js] ![css] ![html] | ![ts] ![HAML] ![sass] ![coffee] | ![vue] ![react] ![preact] ![postcss] ![tailwind] |
+| [jspad.dev](https://www.jspad.dev/)                           |               | ![js] ![css] ![html] | ![ts]                           | ![vue] ![react] ![svelte] ![webcomp] ![tailwind] |
 
 [js]:    https://api.iconify.design/simple-icons:javascript.svg?color=%23F0DB4F  "Javascript"
 [ts]:    https://api.iconify.design/simple-icons:typescript.svg?color=%233178c6  "TypeScript"
@@ -137,8 +137,8 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 [svelte]:   https://api.iconify.design/simple-icons:svelte.svg?color=%23ff3e00               "Svelte"
 [webcomp]:  https://api.iconify.design/simple-icons:webcomponentsdotorg.svg?color=%23def021  "Web Components"
 
-[fav]:  https://api.iconify.design/material-symbols:favorite.svg?color=%23ff0000  "favorito"
-[crs]:  https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000           "marcação"
+[fav]:  https://api.iconify.design/material-symbols:favorite.svg?color=%23ff0000  "meu favorito"
+[ofi]:  https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000           "site oficial"
 
 🛝 Others Playgrounds 
 - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
