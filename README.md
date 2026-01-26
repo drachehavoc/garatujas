@@ -114,24 +114,29 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 
 🛝 Playgrounds (HTML5)
 
-| site                                                          | oficial  | favorito |  linguages                          |              |                      |
-| ------------------------------------------------------------- |:--------:|:--------:|:----------------------------------- | ------------ | -------------------- |
-| [MDN](https://developer.mozilla.org/play)                     | ![][crs] | ![][fav] | ![][js] ![][css] ![][html]          | ![][HAML]    | ![][coffee] ![][VUE] |
-| [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |          | ![][js] ![][ts]                     | |
-| [jsfiddle](https://jsfiddle.net/)                             |          |          | ![][js] ![][css] ![][html]          | |
-| [jspad.dev](https://www.jspad.dev/)                           |          |          | ![][js] ![][css] ![][html]          | |
+| site                                                          | oficial  | favorito |  linguages                 | alt: languages                                 |  frameworks / biblioteca                    |
+| ------------------------------------------------------------- |:--------:|:--------:|:---------------------------| ---------------------------------------------- | ------------------------------------------- |
+| [MDN](https://developer.mozilla.org/play)                     | ![][crs] | ![][fav] | ![][js] ![][css] ![][html] |                                                |                                             | 
+| [TypeScript - Microsoft](https://www.typescriptlang.org/play) |          |          | ![][js] ![][ts]            |                                                |                                             |
+| [jsfiddle](https://jsfiddle.net/)                             |          |          | ![][js] ![][css] ![][html] | ![][HAML] ![][sass] ![][postcss] ![][tailwind] | ![][coffee] ![][VUE] ![][react] ![][preact] |
+| [jspad.dev](https://www.jspad.dev/)                           |          |          | ![][js] ![][css] ![][html] |                                                |                                             |
 
 [js]:    https://api.iconify.design/simple-icons:javascript.svg?color=%23F0DB4F  "Javascript"
 [ts]:    https://api.iconify.design/simple-icons:typescript.svg?color=%233178c6  "TypeScript"
 [html]:  https://api.iconify.design/simple-icons:html5.svg?color=%23E34C26       "HTML"
 [css]:   https://api.iconify.design/simple-icons:css.svg?color=%23663399         "CSS [rebecca purple]"
       
-[haml]:    https://api.iconify.design/vscode-icons:file-type-haml.svg?color=%233e3e29  "haml"
-[coffee]:  https://api.iconify.design/simple-icons:coffeescript.svg?color=%233e2723    "Coffee Script"
-[VUE]:     https://api.iconify.design/simple-icons:vuedotjs.svg?color=%2335495e        "Vue"
+[haml]:     https://api.iconify.design/vscode-icons:file-type-haml.svg?color=%233e3e29  "haml"
+[coffee]:   https://api.iconify.design/simple-icons:coffeescript.svg?color=%233e2723    "Coffee Script"
+[VUE]:      https://api.iconify.design/simple-icons:vuedotjs.svg?color=%2341b883        "Vue"
+[react]:    https://api.iconify.design/simple-icons:react.svg?color=%2361DBFB           "React"
+[preact]:   https://api.iconify.design/simple-icons:preact.svg?color=%23673ab8          "Preact"
+[sass]:     https://api.iconify.design/simple-icons:sass.svg?color=%23cf649a            "Sass/Scss"
+[postcss]:  https://api.iconify.design/simple-icons:postcss.svg?color=%23dd3a0a         "PostCSS"
+[tailwind]: https://api.iconify.design/simple-icons:tailwindcss.svg?color=%2300bcff     "Tailwind"
 
 [fav]:  https://api.iconify.design/material-symbols:favorite.svg?color=%23ff0000  "favorito"
-[crs]:  https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000           "cross"
+[crs]:  https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000           "marcação"
 
 🛝 Others Playgrounds 
 - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
