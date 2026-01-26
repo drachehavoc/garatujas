@@ -237,7 +237,7 @@ Links Úteis
 +=======================================================================+===============+====================+========================+====================================+
 | `MDN <https://developer.mozilla.org/play>`_                           | |ofi| |fav|   | |js| |css| |html|  |                        |                                    |
 +-----------------------------------------------------------------------+---------------+--------------------+------------------------+------------------------------------+
-| `TypeScript - Microsoft <https://www.typescriptlang.org/play>`_       |               | |js| |ts|          |                        |                                    |
+| `TypeScript - Microsoft <https://www.typescriptlang.org/play>`_       | |ofi|         | |js| |ts|          |                        |                                    |
 +-----------------------------------------------------------------------+---------------+--------------------+------------------------+------------------------------------+
 | `jsfiddle <https://jsfiddle.net/>`_                                   |               | |js| |css| |html|  | |ts| |haml| |sass|     | |vue| |react| |preact| |postcss|   |
 |                                                                       |               |                    | |coffee|               | |tailwind|                         |
@@ -245,6 +245,9 @@ Links Úteis
 | `jspad.dev <https://www.jspad.dev/>`_                                 |               | |js| |css| |html|  | |ts|                   | |vue| |react| |svelte| |webcomp|   |
 |                                                                       |               |                    |                        | |tailwind|                         |
 +-----------------------------------------------------------------------+---------------+--------------------+------------------------+------------------------------------+
+
+|ofi-s| :sub:`oficial`
+|fav-s| :sub:`meu favorito`
 
 🛝 Others Playgrounds
 
@@ -302,3 +305,10 @@ Ascii Text Art
    :alt: meu favorito
 .. |ofi| image:: https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000
    :alt: site oficial
+
+.. |fav-s| image:: https://api.iconify.design/material-symbols:favorite.svg?color=%23ff0000
+   :alt: meu favorito
+   :height: 10px
+.. |ofi-s| image:: https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000
+   :alt: site oficial
+   :height: 10px
