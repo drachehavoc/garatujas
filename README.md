@@ -127,8 +127,8 @@ Uso este GitHub como um caderno de anotações bagunçadas. Escrevo para entende
 [ts]:    https://api.iconify.design/devicon:typescript.svg  "TypeScript"
 [html5]: https://api.iconify.design/devicon:html5.svg       "HTML"
 [css3]:  https://api.iconify.design/devicon:css3.svg        "CSS"
-[fav]: https://api.iconify.design/material-symbols:favorite.svg?color=%230000ff "favorite"
-[crs]: https://api.iconify.design/akar-icons:cross.svg          "cross"
+[fav]: https://api.iconify.design/material-symbols:favorite.svg?color=%23ff0000 "favorite"
+[crs]: https://api.iconify.design/akar-icons:cross.svg?color=%23ff0000          "cross"
 
 🛝 Others Playgrounds 
 - [Assembly x64 ↣ x64.halb.it⁺](https://x64.halb.it/)
